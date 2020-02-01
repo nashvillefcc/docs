@@ -9,7 +9,7 @@ This document outlines the things that are done each month at the montly event.
 
 - Introductions
   - Start with leadership welcoming everybody
-  - Point out any swag FCC Nashville is providing
+  - Point out any swag/food FCC Nashville is providing
   - Explain why freeCodeCamp Nashville exists
   - Thank sponsors
   - Explain introductions
@@ -20,6 +20,7 @@ This document outlines the things that are done each month at the montly event.
 - Presentation
 - Thank you everyone for coming out
 - Thank sponsors again
+- Put up resources slide
 - Announce feedback survey
 - Ask for volunteers
 - Encourage people to present as first timers and we'll help mentor them in that
