@@ -42,7 +42,6 @@ If you believe that someone is violating the code of conduct in an official free
 - By finding an organizer and reporting in person
 - Contacting in organizer directly, or corporately, via email:
   - Seth Alexander: sethalexander@pm.me
-  - Dave Harned: dharned@gmail.com
   - Laura Pinell: laura@uxbridge.io
 - All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. In those cases, the identities of all victims, reporters, and the accused will remain confidential unless those individuals instruct us otherwise.
 
