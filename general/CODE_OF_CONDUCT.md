@@ -33,7 +33,7 @@ We appreciate your help in making freeCodeCamp Nashville a welcoming, friendly, 
 
 All freeCodeCamp Nashville community members are subject to this Code of Conduct. This includes freeCodeCamp Nashville organizers and speakers. In addition, all sponsors and vendors are subject to this Code of Conduct as well.
 
-Where freeCodeCamp Nashville platforms or events are subject to their own Code of Conduct (e.g. the [Discord Parnership Code of Conduct](https://support.discordapp.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct)) both Code of Conducts will be enforced. If there are any conflicts between the two, priority will be given to the third party Code of Conduct freeCodeCamp Nashville is subject to in these instances.
+Where freeCodeCamp Nashville platforms or events are subject to their own Code of Conduct (e.g. the [Discord Partnership Code of Conduct](https://support.discordapp.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct)) both Code of Conducts will be enforced. If there are any conflicts between the two, priority will be given to the third party Code of Conduct freeCodeCamp Nashville is subject to in these instances.
 
 ## Reporting Guidelines
 
@@ -62,7 +62,6 @@ When making a report, please include:
 ## Appeals
 
 Only permanent actions (such as bans) may be appealed. To appeal a decision, please contact an organizer listed above with your appeal and freeCodeCamp Nashville will review the case.
-License
 
 This code of conduct was originally derived from the [PyNash Code of Conduct](https://pynash.org/code-of-conduct).
 
